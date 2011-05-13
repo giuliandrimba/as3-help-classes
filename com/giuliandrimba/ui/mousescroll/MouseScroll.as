@@ -1,5 +1,9 @@
 ﻿package com.giuliandrimba.ui.mousescroll
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
 	
 	import flash.display.MovieClip;
 	import flash.events.*;

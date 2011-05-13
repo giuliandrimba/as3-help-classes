@@ -1,5 +1,9 @@
 ﻿package  com.giuliandrimba.ui.scrollbar
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
 	
 	public class ScrollbarOrientation
 	{

@@ -1,5 +1,10 @@
 ﻿package com.giuliandrimba.data.loaddata
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
+	
 	import flash.events.Event;
 	import flash.events.EventDispatcher;
 	import flash.net.URLLoader;

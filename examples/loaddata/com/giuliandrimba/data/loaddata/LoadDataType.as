@@ -1,5 +1,9 @@
 ﻿package com.giuliandrimba.data.loaddata
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
 	
 	public class LoadDataType
 	{

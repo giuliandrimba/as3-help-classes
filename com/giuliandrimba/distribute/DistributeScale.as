@@ -1,5 +1,10 @@
 ﻿package com.giuliandrimba.distribute
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
+	
 	import com.greensock.TweenLite;
 	import com.greensock.easing.Quad;
 	import flash.display.MovieClip;

@@ -1,5 +1,10 @@
 package com.giuliandrimba.utils
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
+	
 	import flash.display.Sprite;
 	import flash.events.FocusEvent;
 	import flash.text.TextField;

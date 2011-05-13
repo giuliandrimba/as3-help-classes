@@ -1,5 +1,10 @@
 ﻿package  com.giuliandrimba.utils
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
+	
 	import flash.external.ExternalInterface;
 		
 	public class ExternalTrace

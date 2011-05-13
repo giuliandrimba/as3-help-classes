@@ -1,5 +1,10 @@
 ﻿package com.giuliandrimba.ui.scrollbar
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
+	
 	import flash.display.MovieClip;
 	import flash.display.Stage;
 	import flash.events.EventDispatcher;

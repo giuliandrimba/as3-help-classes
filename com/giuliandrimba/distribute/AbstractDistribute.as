@@ -1,5 +1,10 @@
 ﻿package com.giuliandrimba.distribute
 {
+	/**
+	 * ...
+	 * @author Giulian Drimba
+	 */
+	
 	import flash.display.MovieClip;
 	public class AbstractDistribute
 	{
